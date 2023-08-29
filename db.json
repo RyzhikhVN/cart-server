@@ -1,0 +1,44 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "img": "macbook.jpg",
+        "title": "Apple MacBook Air",
+        "count": 1,
+        "price": 179000,
+        "priceTotal": 179000
+      },
+      {
+        "id": 2,
+        "img": "apple-watch.jpg",
+        "title": "Apple watch",
+        "count": 1,
+        "price": 57000,
+        "priceTotal": 57000
+      },
+      {
+        "id": 3,
+        "img": "h-pod.jpg",
+        "title": "h-pod",
+        "count": 1,
+        "price": 37000,
+        "priceTotal": 37000
+      },
+      {
+        "id": 4,
+        "img": "mac-pro.jpg",
+        "title": "Mac Pro",
+        "count": 1,
+        "price": 210000,
+        "priceTotal": 210000
+      },
+      {
+        "id": 5,
+        "img": "kable.jpg",
+        "title": "kable",
+        "count": 1,
+        "price": 500,
+        "priceTotal": 500
+      }
+    ]
+  }
